@@ -1,4 +1,4 @@
-package TercerParcialClase.Ejercicios.Bridge;
+package Bridge;
 
 public interface ITipoCambio {
     double applyTipoCamio(double monto);

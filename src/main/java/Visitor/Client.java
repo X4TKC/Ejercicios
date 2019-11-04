@@ -1,4 +1,4 @@
-package TercerParcialClase.Ejercicios.Visitor;
+package Visitor;
 
 public class Client {
 

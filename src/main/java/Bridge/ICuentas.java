@@ -1,4 +1,4 @@
-package TercerParcialClase.Ejercicios.Bridge;
+package Bridge;
 
 public interface ICuentas {
     void processAccount();

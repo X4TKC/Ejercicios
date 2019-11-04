@@ -1,4 +1,4 @@
-package TercerParcialClase.Ejercicios.Decorador;
+package Decorator;
 
 public abstract class Decorator implements IBanco {
     private IBanco componente;

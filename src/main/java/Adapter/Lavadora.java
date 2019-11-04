@@ -1,4 +1,4 @@
-package TercerParcialClase.Ejercicios.Adapter;
+package Adapter;
 
 public class Lavadora implements  IArtefactosEB{
 

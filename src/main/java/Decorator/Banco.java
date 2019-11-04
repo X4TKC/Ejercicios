@@ -1,4 +1,4 @@
-package TercerParcialClase.Ejercicios.Decorador;
+package Decorator;
 
 public class Banco implements IBanco {
     private double monto;

@@ -1,5 +1,4 @@
-package TercerParcialClase.Ejercicios.Proxy;
-
+package Proxy;
 interface IServidor {
 
     void descarga();

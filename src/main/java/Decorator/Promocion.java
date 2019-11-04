@@ -1,4 +1,4 @@
-package TercerParcialClase.Ejercicios.Decorador;
+package Decorator;
 
 import java.util.Random;
 

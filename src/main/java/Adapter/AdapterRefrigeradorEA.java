@@ -1,4 +1,4 @@
-package TercerParcialClase.Ejercicios.Adapter;
+package Adapter;
 
 public class AdapterRefrigeradorEA implements IArtefactosEA {
     Refrigerador component;

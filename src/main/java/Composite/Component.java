@@ -1,4 +1,4 @@
-package TercerParcialClase.Ejercicios.Composite;
+package Composite;
 
 abstract class Component {
     private String name;

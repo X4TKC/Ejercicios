@@ -1,4 +1,4 @@
-package TercerParcialClase.Ejercicios.Composite;
+package Composite;
 
 
 public class Client {

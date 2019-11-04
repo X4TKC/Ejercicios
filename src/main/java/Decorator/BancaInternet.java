@@ -1,4 +1,4 @@
-package TercerParcialClase.Ejercicios.Decorador;
+package Decorator;
 
 public class BancaInternet extends Decorator {
     private boolean enable=false;

@@ -1,4 +1,4 @@
-package TercerParcialClase.Ejercicios.Adapter;
+package Adapter;
 
 public interface IArtefactosEB {
     void costo();

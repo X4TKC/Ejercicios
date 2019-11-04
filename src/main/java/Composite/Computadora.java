@@ -1,5 +1,4 @@
-package TercerParcialClase.Ejercicios.Composite;
-
+package Composite;
 public class Computadora extends Component {
 
     public Computadora(int precio){

@@ -1,4 +1,4 @@
-package TercerParcialClase.Ejercicios.Proxy;
+package Proxy;
 
 public class Servidor implements IServidor {
 

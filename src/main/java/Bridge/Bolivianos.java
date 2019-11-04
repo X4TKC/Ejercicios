@@ -1,4 +1,4 @@
-package TercerParcialClase.Ejercicios.Bridge;
+package Bridge;
 
 public class Bolivianos implements ITipoCambio {
     @Override

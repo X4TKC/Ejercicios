@@ -1,4 +1,4 @@
-package TercerParcialClase.Ejercicios.Decorador;
+package Decorator;
 
 public class SeguroCuenta extends Decorator {
     private double x=15.0;

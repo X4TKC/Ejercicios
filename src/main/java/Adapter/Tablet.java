@@ -1,4 +1,4 @@
-package TercerParcialClase.Ejercicios.Adapter;
+package Adapter;
 
 public class Tablet implements IArtefactosEA {
     private int precio;

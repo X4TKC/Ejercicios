@@ -1,5 +1,4 @@
-package TercerParcialClase.Ejercicios.Composite;
-
+package Composite;
 import java.util.ArrayList;
 
 public class Composite extends Component {
